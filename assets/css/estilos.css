@@ -20,6 +20,10 @@ body {
   background-position: center;
 }
 
+.galería{
+  background-color: #0a7500;
+}
+
 /* Contacto */
 
 #Contacto form label {
